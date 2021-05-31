@@ -18,23 +18,23 @@
 
  [대구대학교 텔레그램 봇](https://t.me/DU_hakgwa_bot) 에서 만나보실수 있습니다.😊
 
-1. **```/start``` **를 입력 또는 클릭하여 봇을 **시작**한다.
+1. ```/start```를 입력 또는 클릭하여 봇을 **시작**한다.
 
    ![1](https://github.com/seungwook0417/DU-hakgwa-telegram/blob/main/resource/1.png)
 
-2. **```초기세팅```**을 눌러 학과 알림 세팅을 시작한다.
+2. ```초기세팅```을 눌러 학과 알림 세팅을 시작한다.
 
    ![2](https://github.com/seungwook0417/DU-hakgwa-telegram/blob/main/resource/2.png)
 
-3. 선택창에서 **```자신의 대학```**을 선택한다.
+3. 선택창에서 ```자신의 대학```을 선택한다.
 
    ![3](https://github.com/seungwook0417/DU-hakgwa-telegram/blob/main/resource/3.png)
 
-4. 선택창에서 **```자신의 전공```**을 선택한다.
+4. 선택창에서 ```자신의 전공```을 선택한다.
 
    ![4](https://github.com/seungwook0417/DU-hakgwa-telegram/blob/main/resource/4.png)
 
-5. **```시작```**을 누른다.
+5. ```시작```을 누른다.
 
    ![5](https://github.com/seungwook0417/DU-hakgwa-telegram/blob/main/resource/5.png)
 
@@ -42,7 +42,7 @@
 
    ![6](https://github.com/seungwook0417/DU-hakgwa-telegram/blob/main/resource/6.png)
 
-7. 다시 세팅이 필요하면 **```취소버튼``` **혹은 **```/cancel```**을 입력한다.
+7. 다시 세팅이 필요하면 ```취소버튼``` 혹은 ```/cancel```을 입력한다.
 
    
 
