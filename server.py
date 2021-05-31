@@ -55,7 +55,7 @@ def paser(content, firstrun):
             return
 
     url, haksa, etc = hakgwa_json(content)
-    current_list = ce_get_list(url+haksa) + ce_get_list(url+etc)
+    current_list = ce_get_list(url,haksa) + ce_get_list(url,etc)
 
     for e in current_list:
         if e not in memory:
