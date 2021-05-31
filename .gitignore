@@ -6,3 +6,4 @@ hakgwa_set.py
 conversationbot
 /data
 /data/*.*
+*.pyc
