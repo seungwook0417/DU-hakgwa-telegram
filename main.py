@@ -166,6 +166,15 @@ def done(update: Update, context: CallbackContext) -> int:
 #  초기화
 def cancle(update: Update, context: CallbackContext) -> int:
     user_data = context.user_data
+    if context.user_data:
+        chat_id = update.message.chat.id
+        content = facts_to_str2(context.user_data)
+        json_data = open('user.json', 'r', encoding="utf-8").read()
+        user = json.loads(json_data)
+        for i in user[content]:
+            if chat_id == i['chat_id']:
+                user[content].remove(i)
+        json.dump(user, open("user.json", "w", encoding="utf-8"), ensure_ascii=False)
     user_data.clear()
     update.message.reply_text(
         '초기화를 완료 하였습니다.\n다시 시작을 원하시면 /start 를 입력하여 시작 부탁드립니다.', reply_markup=ReplyKeyboardRemove()
