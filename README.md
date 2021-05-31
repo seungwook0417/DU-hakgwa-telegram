@@ -7,6 +7,7 @@
 
 안녕하세요!
 저는 텔레그램 봇 API를 이용하여 제작한 **대구대학교 공지사항 알림 봇** 입니다. 
+
 대구대학교의 학사생활에 **도움이** 되고자 제작하였습니다.😊
 
 👉🏻 참고 출처 : [@dryrain39](https://github.com/dryrain39)님 [du-n2m](https://github.com/dryrain39/du-n2m) 코드를 참고하였습니다.
